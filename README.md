@@ -120,6 +120,8 @@
 
 [Kalangi Sathvika](https://github.com/kalangisathvika)<br>
 
+[Kartikey Gupta](https://github.com/kartik31002)<br>
+
 ## L
 
 [Lovish Aggarwal](https://github.com/a-lovish)<br>
